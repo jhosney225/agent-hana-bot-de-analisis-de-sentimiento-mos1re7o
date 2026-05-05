@@ -1,0 +1,6 @@
+{
+  "name": "agent-hana-bot-de-analisis-de-sentimiento-mos1re7o",
+  "version": "1.0.0",
+  "description": "Proyecto de Hana [Gen27]: bot de analisis de sentimiento de noticias financieras",
+  "main": "index.js"
+}
